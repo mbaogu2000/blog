@@ -1,0 +1,27 @@
+    /* Global style */
+	*
+	{
+	   padding: 0;
+	   margin: 0;
+	   box-sizing: border-box;
+	   font-family: 'sagoe Ul', Geneva, Tahoma,Verdana, sans-serif;
+	}
+	html
+	{
+	  scrow-behaviour: smooth;
+	}
+	body
+	{
+	  background: #fdfdfd;
+	  color: #333;
+	  line-height: 1.6;
+	}
+	a
+	{
+	  text-decoration: none;
+	  color: inherit;
+	}
+	h1, h2,h3
+	{
+	  color: #222;
+	}
